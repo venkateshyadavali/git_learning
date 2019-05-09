@@ -1,1 +1,2 @@
 #Checking merge by making change only in release branch
+# New branch to verify fast forward merge

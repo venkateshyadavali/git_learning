@@ -1,0 +1,4 @@
+1. Demonstrate Merge
+2. Demonstrate Merge Conflict
+3. Demonstrate Fast Forward
+4. Demonstrate 3 phased commits

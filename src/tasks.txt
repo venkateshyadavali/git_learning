@@ -3,4 +3,8 @@
 3. Demonstrate Fast Forward
 4. Demonstrate 3 phased commits
 
+------------------
 cherry-pick, rebase, hooks
+------------------
+
+git stash

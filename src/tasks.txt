@@ -10,3 +10,4 @@ cherry-pick, rebase, hooks
 git stash
 git diff
 
+Adding line by user2

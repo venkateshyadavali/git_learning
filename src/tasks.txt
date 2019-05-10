@@ -12,3 +12,5 @@ git diff
 
 Adding line from user1
 Adding line by user2
+
+Second time update by user1

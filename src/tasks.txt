@@ -14,3 +14,5 @@ Adding line from user1
 Adding line by user2
 
 Second time update by user1
+
+git push from one branch in local to other in remote
